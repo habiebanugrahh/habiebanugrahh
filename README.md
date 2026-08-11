@@ -13,4 +13,15 @@
 
 #### My Github Stats  
 
-<div data-importer="stats" align="center">   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=habiebanugrahh&theme=prussian&layout=compact&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />   <img src="https://streak-stats.demolab.com?user=habiebanugrahh&locale=en&mode=daily&theme=prussian&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />   <img src="https://raw.githubusercontent.com/habiebanugrahh/habiebanugrahh/trophy-output/trophy.svg?theme=prussian&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> </div>   #### Play With Me <picture data-importer="pacman">   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/habiebanugrahh/habiebanugrahh/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/habiebanugrahh/habiebanugrahh/pacman-output/pacman-contribution-graph.svg?game=pacman">   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/habiebanugrahh/habiebanugrahh/pacman-output/pacman-contribution-graph.svg?game=pacman"> </picture>
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=habiebanugrahh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/habiebanugrahh/habiebanugrahh/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+#### Play With Me
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/habiebanugrahh/habiebanugrahh/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/habiebanugrahh/habiebanugrahh/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/habiebanugrahh/habiebanugrahh/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
