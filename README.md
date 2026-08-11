@@ -5,6 +5,18 @@
 
 </div>
 
+#### About Me
+ 
+Hi 👋, I'm **Habieb Anugrah Heryza**
+
+Web Developer | Student | Freelancer.
+I enjoy building web apps with coffee, exploring new stacks, and turning ideas into working projects for my portfolio. Currently sharpening my skills in Laravel, Tailwind, and full-stack development while taking on beginner freelance work on the side.
+ 
+- 🔭 Currently building side projects for my GitHub portfolio
+- 🌱 Learning more about Laravel and modern frontend workflows
+- 💬 Ask me about HTML, CSS, JS, PHP, or Laravel
+- 📫 Reach me via Instagram or LinkedIn below
+
 
 #### My Skills 
 
@@ -13,6 +25,18 @@
 
 #### Connect With Me 
 <a href="https://instagram.com/habib_ah13">     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="text-decoration:none;"><a href="https://linkedin.com/in/habieb-anugrah-heryza-165a9a398">     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="text-decoration:none;"></a>  
+
+
+### Featured Projects
+ 
+| Project | Description | Repo |
+|---|---|---|
+| ☕ Cemara Coffee Co. | Multi-page company profile for a coffee bean brand with HTML + Tailwind + JS | [Link](https://github.com/habiebanugrahh/cemara-coffee-co) |
+| 📝 Listify | Simple, clean to-do list web app | [Link](https://github.com/habiebanugrahh/Listify) |
+| ✅ Simple To-Do App | Minimalist to-do list app with filter/search | [Link](https://github.com/habiebanugrahh/listify) |
+| 📄 Magic CV Generator | CV builder with live preview, PDF/Word export with Laravel | [Link](https://github.com/habiebanugrahh/magic-cv-generator) |
+| 🌍 Geory | Geography + History learning platform for kids with Laravel + Tailwind | [Link](https://github.com/habiebanugrahh/geory) |
+
 
 #### My Github Stats  
 
