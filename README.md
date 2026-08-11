@@ -27,7 +27,7 @@ I enjoy building web apps with coffee, exploring new stacks, and turning ideas i
 <a href="https://instagram.com/habib_ah13">     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="text-decoration:none;"><a href="https://linkedin.com/in/habieb-anugrah-heryza-165a9a398">     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="text-decoration:none;"></a>  
 
 
-### Featured Projects
+#### Featured Projects
  
 | Project | Description | Repo |
 |---|---|---|
