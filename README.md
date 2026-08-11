@@ -1,6 +1,9 @@
 ![HabiebAnugrahH](img/github-header-banner.png)  
 
-![kamen-rider](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b21yNWp3eW1kbDdhbGEwbGhjenM4Y3A3enpjenBvYXNua2gyampycyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TySLMrrPzYnhF8OAhG/giphy.gif)  
+<div data-importer="stats" align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b21yNWp3eW1kbDdhbGEwbGhjenM4Y3A3enpjenBvYXNua2gyampycyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TySLMrrPzYnhF8OAhG/giphy.gif">  
+
+</div>
 
 
 #### My Skills 
@@ -13,10 +16,7 @@
 
 #### My Github Stats  
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=habiebanugrahh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/habiebanugrahh/habiebanugrahh/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+
 
 #### Play With Me
 
