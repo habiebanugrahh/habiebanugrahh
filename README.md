@@ -16,6 +16,9 @@
 
 #### My Github Stats  
 
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=habiebanugrahh&size_weight=0.5&count_weight=0.5&theme=prussian&layout=compact)
+
+
 
 
 #### Play With Me
