@@ -42,7 +42,7 @@ I enjoy building web apps with coffee, exploring new stacks, and turning ideas i
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=habiebanugrahh&size_weight=0.5&count_weight=0.5&theme=prussian&layout=compact)
 
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=habiebanugrahh&theme=prussian&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
 
 
 #### Play With Me
