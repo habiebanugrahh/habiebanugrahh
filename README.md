@@ -24,7 +24,7 @@ I enjoy building web apps with coffee, exploring new stacks, and turning ideas i
 
 
 #### Connect With Me 
-<a href="https://instagram.com/habib_ah13">     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="text-decoration:none;"><a href="https://linkedin.com/in/habieb-anugrah-heryza-165a9a398">     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="text-decoration:none;"></a>  
+<a href="https://instagram.com/habib_ah13">     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="text-decoration:none;"><a href="https://linkedin.com/in/habieb-anugrah-heryza">     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="text-decoration:none;"></a>  
 
 
 #### Featured Projects
@@ -33,12 +33,10 @@ I enjoy building web apps with coffee, exploring new stacks, and turning ideas i
 |---|---|---|
 | ☕ Cemara Coffee Co. | Multi-page company profile for a coffee bean brand with HTML + Tailwind + JS | [Link](https://github.com/habiebanugrahh/cemara-coffee-co) |
 | 📝 Listify | Simple, clean to-do list web app | [Link](https://github.com/habiebanugrahh/Listify) |
-| ✅ Simple To-Do App | Minimalist to-do list app with filter/search | [Link](https://github.com/habiebanugrahh/listify) |
-| 📄 Magic CV Generator | CV builder with live preview, PDF/Word export with Laravel | [Link](https://github.com/habiebanugrahh/magic-cv-generator) |
+| ✅ Simple To-Do App | Minimalist to-do list app with filter/search | [Link](https://github.com/habiebanugrahh/listify) ||
 | 🌍 Geory | Geography + History learning platform for kids with Laravel + Tailwind | [Link](https://github.com/habiebanugrahh/geory) |
 
-
-#### My Github Stats  
+#### My Github Stats & Streak
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=habiebanugrahh&size_weight=0.5&count_weight=0.5&theme=prussian&layout=compact)
 
