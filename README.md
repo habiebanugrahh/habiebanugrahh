@@ -1,51 +1,69 @@
-![HabiebAnugrahH](img/github-header-banner.png)  
+![HabiebAnugrahH](img/github-header-banner.png)
 
 <div data-importer="stats" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b21yNWp3eW1kbDdhbGEwbGhjenM4Y3A3enpjenBvYXNua2gyampycyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TySLMrrPzYnhF8OAhG/giphy.gif">  
-
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b21yNWp3eW1kbDdhbGEwbGhjenM4Y3A3enpjenBvYXNua2gyampycyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TySLMrrPzYnhF8OAhG/giphy.gif">
 </div>
 
-#### About Me
- 
-Hi 👋, I'm **Habieb Anugrah Heryza**
+### Hi, I'm Habieb Anugrah Heryza 👋
 
-Web Developer | Student | Freelancer.
-I enjoy building web apps with coffee, exploring new stacks, and turning ideas into working projects for my portfolio. Currently sharpening my skills in Laravel, Tailwind, and full-stack development while taking on beginner freelance work on the side.
- 
-- 🔭 Currently building side projects for my GitHub portfolio
-- 🌱 Learning more about Laravel and modern frontend workflows
+Informatics Engineering student and beginner freelance web developer. I like turning small ideas into working web apps, one project at a time, and I'm always down to explore a new stack over a cup of coffee.
+
+- 🔭 Currently building projects for my GitHub portfolio
+- 🌱 Sharpening my skills in Laravel, Tailwind, and full stack development
+- 💼 Taking on beginner freelance web projects on the side
 - 💬 Ask me about HTML, CSS, JS, PHP, or Laravel
-- 📫 Reach me via Instagram or LinkedIn below
+- 📫 Reach me through Instagram or LinkedIn below
 
+<br>
 
-#### My Skills 
+### Tech Stack
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" /><img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /><img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" /><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /><img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white" /><img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" /><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" /><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" /><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" /><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />  
+**Languages**
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
-#### Connect With Me 
-<a href="https://instagram.com/habib_ah13">     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="text-decoration:none;"><a href="https://linkedin.com/in/habieb-anugrah-heryza">     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="text-decoration:none;"></a>  
+**Frameworks & Tools**
 
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white"/><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/><img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white"/><img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white"/><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
-#### Featured Projects
- 
-| Project | Description | Repo |
+**Environment**
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"/><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+
+**AI Tools**
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/><img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+
+<br>
+
+### Featured Projects
+
+| Project | Description | Link |
 |---|---|---|
-| ☕ Cemara Coffee Co. | Multi-page company profile for a coffee bean brand with HTML + Tailwind + JS | [Link](https://github.com/habiebanugrahh/cemara-coffee-co) |
-| 📝 Listify | Simple, clean to-do list web app | [Link](https://github.com/habiebanugrahh/Listify) |
-| ✅ Simple To-Do App | Minimalist to-do list app with filter/search | [Link](https://github.com/habiebanugrahh/listify) ||
-| 🌍 Geory | Geography + History learning platform for kids with Laravel + Tailwind | [Link](https://github.com/habiebanugrahh/geory) |
+| ☕ Cemara Coffee Co. | Multi-page company profile for a coffee bean brand, built with HTML, Tailwind, and JS | [Live Demo](https://cemara-coffee-co.netlify.app/) |
+| 📝 Listify | Clean and minimalist to-do list web app | [Live Demo](https://listify-todo-list.netlify.app/) |
+| 🌍 Geory | Geography and history learning platform for kids, built with Laravel and Tailwind | [Repo](https://github.com/habiebanugrahh/geory) |
 
-#### My Github Stats & Streak
+<br>
+
+### GitHub Stats & Streak
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=habiebanugrahh&size_weight=0.5&count_weight=0.5&theme=prussian&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=habiebanugrahh&theme=prussian&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
 
-#### Play With Me
+<br>
+
+### Play With Me
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/habiebanugrahh/habiebanugrahh/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/habiebanugrahh/habiebanugrahh/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/habiebanugrahh/habiebanugrahh/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
+<br>
+
+### Connect With Me
+
+<a href="https://instagram.com/habib_ah13"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://linkedin.com/in/habieb-anugrah-heryza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
